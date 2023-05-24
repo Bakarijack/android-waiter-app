@@ -1,8 +1,10 @@
-package com.example.waiter;
+package com.example.waiter.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.waiter.R;
 
 public class MainActivity extends AppCompatActivity {
 
